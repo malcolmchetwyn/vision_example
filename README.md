@@ -71,6 +71,13 @@ Simply run the script then by typing:
 
     python3 vision_llm_example.py  
 
+### Output
+The output you get should be:
+
+> {'description': 'The image provided is a sample dashboard from a Client Relationship Management (CRM) system. The dashboard is titled "Client Solutions" and appears to focus on key metrics related to client interactions, activities, revenue, and pipeline. Here’s a breakdown of the different sections and data visualizations shown:\n\n### Top Menu\n- **Client Solutions**: The main title of the dashboard.\n- **Home, Onboarding, Research, News**: Navigation tabs at the top.\n\n### Main Sections\n1. **Activity & Pipeline**\n    - **Revenue**: Displays the current month\'s, quarter\'s, and fiscal year\'s revenue ($9.31M, $33.3M, $70.5M).\n    - **Clients**: Displays the number of clients (10).\n    - **Interactions**: Displays the number of interactions (2,881).\n    - **Pipeline**: Displays the current pipeline value ($2.5B).\n    - **Campaign**: Displays the number of campaigns (4.5k).\n\n2. **Revenue and Activities by Tier**\n    - Pie chart visualizing the count of activities by tier (Tier 1, Tier 2, Tier 3).\n    - Line and bar chart showing the trend of revenue and activities over several months (May to October).\n    - Bar and vertical line chart representing revenue and sum of activities by account and vertical.\n\n3. **Today’s Events**\n    - Lists scheduled events with times:\n        - 3:30 AM:'}
+
+##### You can now test out different images and experiement.
+
 
 Ping me at malcolm.fitzgerald@salesforce.com is you run into any issues.
 
