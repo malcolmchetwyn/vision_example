@@ -2,7 +2,7 @@
 The purpose of this repository is to demystify the simplicity of passing an image via an API call and receiving a response. This basic principle of querying AI using images can be extrapolated to a wide range of solutions, empowering our Salesforce KADS, AEs, Solution Engineers and more to think beyond standard out-of-the-box capabilities.
 
 #### Key Objectives:
-**Understanding API Image Processing: **Demonstrates how to send an image to an AI service and receive a response, providing a foundational understanding of image-based AI interactions.
+**Understanding API Image Processing:** Demonstrates how to send an image to an AI service and receive a response, providing a foundational understanding of image-based AI interactions.
 
 **Expanding Solution Engineering Horizons:** Encourages solution engineers to explore innovative solutions by leveraging AI technology, thus enabling more comprehensive and creative customer solutions.
 
